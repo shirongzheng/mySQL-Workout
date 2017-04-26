@@ -1,4 +1,4 @@
-mySQL Workout
+mySQL Workout:
 Insert Data
 Delete Data
 Update Data
