@@ -3,3 +3,4 @@
 2. Delete Data
 3. Update Data
 4. Show Data
+5. Retrieve Image
